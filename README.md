@@ -8,19 +8,19 @@ This project demonstrates hosting a static HTML web application on AWS by utiliz
 ---
 
 ## Key Features
-1. **Virtual Private Cloud (VPC)**: Configured a VPC with public and private subnets across two Availability Zones for enhanced security and fault tolerance.
-2. **Internet Gateway**: Facilitates connectivity between the VPC and the internet.
-3. **Security Groups**: Acts as a firewall to control inbound and outbound traffic.
-4. **Public Subnets**: Used for the NAT Gateway and Application Load Balancer.
-5. **Private Subnets**: Hosts EC2 instances for enhanced security.
-6. **Multi-AZ Architecture**: Ensures fault tolerance by deploying resources across multiple Availability Zones.
-7. **Application Load Balancer (ALB)**: Evenly distributes web traffic to an Auto Scaling Group.
-8. **Auto Scaling Group**: Automatically manages EC2 instances to maintain availability, scalability, and elasticity.
-9. **NAT Gateway**: Provides internet access for instances in private subnets.
-10. **SSL/TLS Security**: Secured communications using AWS Certificate Manager.
-11. **Monitoring and Notifications**: Configured Amazon SNS for alert notifications related to the Auto Scaling Group.
-12. **Domain Management**: Registered a domain and configured DNS using Route 53.
-13. **Version Control**: Stored project files on GitHub for easy collaboration.
+🚀 **Virtual Private Cloud (VPC)**: Configured a VPC with public and private subnets across two Availability Zones for enhanced security and fault tolerance.
+🚀 **Internet Gateway**: Facilitates connectivity between the VPC and the internet.
+🚀 **Security Groups**: Acts as a firewall to control inbound and outbound traffic.
+🚀 **Public Subnets**: Used for the NAT Gateway and Application Load Balancer.
+🚀 **Private Subnets**: Hosts EC2 instances for enhanced security.
+🚀 **Multi-AZ Architecture**: Ensures fault tolerance by deploying resources across multiple Availability Zones.
+🚀 **Application Load Balancer (ALB)**: Evenly distributes web traffic to an Auto Scaling Group.
+🚀 **Auto Scaling Group**: Automatically manages EC2 instances to maintain availability, scalability, and elasticity.
+🚀 **NAT Gateway**: Provides internet access for instances in private subnets.
+🚀 **SSL/TLS Security**: Secured communications using AWS Certificate Manager.
+🚀 **Monitoring and Notifications**: Configured Amazon SNS for alert notifications related to the Auto Scaling Group.
+🚀 **Domain Management**: Registered a domain and configured DNS using Route 53.
+🚀 **Version Control**: Stored project files on GitHub for easy collaboration.
 
 ---
 
