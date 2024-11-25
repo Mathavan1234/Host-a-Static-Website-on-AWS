@@ -8,8 +8,8 @@ This project demonstrates hosting a static HTML web application on AWS by utiliz
 ---
 
 ## Key Features
-🚀  **Virtual Private Cloud (VPC)**: Configured a VPC with public and private subnets across two Availability Zones for enhanced security and fault tolerance.
-🚀  **Internet Gateway**: Facilitates connectivity between the VPC and the internet.
+1.**Virtual Private Cloud (VPC)**: Configured a VPC with public and private subnets across two Availability Zones for enhanced security and fault tolerance.
+2.**Internet Gateway**: Facilitates connectivity between the VPC and the internet.
 🚀  **Security Groups**: Acts as a firewall to control inbound and outbound traffic.
 🚀  **Public Subnets**: Used for the NAT Gateway and Application Load Balancer.
 🚀  **Private Subnets**: Hosts EC2 instances for enhanced security.
@@ -20,7 +20,7 @@ This project demonstrates hosting a static HTML web application on AWS by utiliz
 🚀  **SSL/TLS Security**: Secured communications using AWS Certificate Manager.
 🚀  **Monitoring and Notifications**: Configured Amazon SNS for alert notifications related to the Auto Scaling Group.
 🚀  **Domain Management**: Registered a domain and configured DNS using Route 53.
-🚀  **Version Control**: Stored project files on GitHub for easy collaboration.
+**Version Control**: Stored project files on GitHub for easy collaboration.
 
 ---
 
