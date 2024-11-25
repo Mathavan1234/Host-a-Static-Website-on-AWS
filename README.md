@@ -25,7 +25,7 @@ This project demonstrates hosting a static HTML web application on AWS by utiliz
 ---
 
 ## Architecture Diagram
-Refer to the [GitHub repository](https://github.com/Mathavan1234/Host-a-Static-Website-on-AWS) for the complete architecture diagram.
+Refer to the [GitHub repository](https://github.com/Mathavan1234/Host-a-Static-Website-on-AWS/blob/main/Host-a-Static-Website-on-AWS.png) for the complete architecture diagram.
 
 ---
 
